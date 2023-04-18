@@ -29,7 +29,7 @@ const changCookie = () => {
 
 
 const test = () => {
-	console.log('Dziala')
+	console.log('Dziala');
 }
 
 addButton.addEventListener('click', addCookie)
